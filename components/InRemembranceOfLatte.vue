@@ -21,8 +21,7 @@
           </div>
           <div style="padding: 19% 0;"></div>
           <div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
-            <svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg"
-                 xmlns:xlink="https://www.w3.org/1999/xlink">
+            <svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1">
               <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                 <g transform="translate(-511.000000, -20.000000)" fill="#000000">
                   <g>
@@ -78,7 +77,7 @@
                style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;"
                target="_blank">A post shared by TOCilizumab✴️ (@arsanandha.xyz)</a></p></div>
       </blockquote>
-      <script async src="//www.instagram.com/embed.js"></script>
+      <script async src="https://www.instagram.com/embed.js"></script>
     </div>
     <br/>
     <div class="text-2xl items-center text-center">
