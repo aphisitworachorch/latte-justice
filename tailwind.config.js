@@ -2,10 +2,15 @@
 module.exports = {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'sans': ['IBM Plex Sans Thai Looped'],
+      },
+    },
   },
   daisyui:{
     themes:['forest']
   },
+
   plugins: [require("daisyui")],
 }
